@@ -1,0 +1,62 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style type="text/css">
+    .hiden{
+        display:none;
+    }    
+
+</style>
+
+<div class="col-md-12">
+    <div class="col-md-10">
+        <table class="table" id="customeraddtbl">
+            <thead>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><span>Name</span></td>
+                     <td><input type="text" class="form-control" id="cName"/></td>
+                 </tr>
+                 <tr>
+                     <td><span>Email</span></td>
+                     <td><input type="email" class="form-control" id="cEmail"/></td>
+                </tr>
+                <tr>
+                    <td><span>Phone No.</span></td>
+                    <td><input type="number" class="form-control" id="cPhone"/></td>
+                </tr>
+                <tr>
+                    <td><span>Address</span></td>
+                    <td><textarea class="form-control" id="cAddress"></textarea></td>
+                </tr>
+                <tr>
+                    <td>
+                        <input class="btn btn-primary" value="Save" id="customeradd" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+<div class="col-md-12 align-content-center">
+    <div class="col-md-10">
+        <table class="table table-borderless" id="customerlist">
+            <thead>
+                <th>#ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Address</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </thead>
+            <tbody>
+
+            </tbody>
+        </table>
+    </div>
+</div>

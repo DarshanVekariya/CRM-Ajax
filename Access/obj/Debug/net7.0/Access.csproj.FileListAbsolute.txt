@@ -1,0 +1,15 @@
+D:\Pre\CRM\Access\bin\Debug\net7.0\Access.deps.json
+D:\Pre\CRM\Access\bin\Debug\net7.0\Access.dll
+D:\Pre\CRM\Access\bin\Debug\net7.0\Access.pdb
+D:\Pre\CRM\Access\bin\Debug\net7.0\Models.dll
+D:\Pre\CRM\Access\bin\Debug\net7.0\Models.pdb
+D:\Pre\CRM\Access\obj\Debug\net7.0\Access.csproj.AssemblyReference.cache
+D:\Pre\CRM\Access\obj\Debug\net7.0\Access.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pre\CRM\Access\obj\Debug\net7.0\Access.AssemblyInfoInputs.cache
+D:\Pre\CRM\Access\obj\Debug\net7.0\Access.AssemblyInfo.cs
+D:\Pre\CRM\Access\obj\Debug\net7.0\Access.csproj.CoreCompileInputs.cache
+D:\Pre\CRM\Access\obj\Debug\net7.0\Access.csproj.CopyComplete
+D:\Pre\CRM\Access\obj\Debug\net7.0\Access.dll
+D:\Pre\CRM\Access\obj\Debug\net7.0\refint\Access.dll
+D:\Pre\CRM\Access\obj\Debug\net7.0\Access.pdb
+D:\Pre\CRM\Access\obj\Debug\net7.0\ref\Access.dll
